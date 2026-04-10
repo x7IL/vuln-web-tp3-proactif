@@ -1,0 +1,12 @@
+# Intentionally outdated dependencies so Dependabot raises alerts.
+# DO NOT copy these versions into a real project.
+Flask==0.12.2
+Jinja2==2.10
+Werkzeug==0.15.3
+itsdangerous==0.24
+MarkupSafe==1.0
+click==6.7
+requests==2.19.0
+urllib3==1.24.1
+PyYAML==3.13
+cryptography==2.3
